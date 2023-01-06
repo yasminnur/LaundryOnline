@@ -1,0 +1,58 @@
+
+
+/*
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 700px;
+  }
+
+  table th,
+  table td {
+    border: 1px solid #3c3c3c;
+    padding: 3px 8px;
+
+  }
+
+  h2 {
+    margin: 0 150px;
+    padding-top: 20px;
+  }
+
+  h3,
+  .header {
+    margin: 0 150px;
+    padding-top: 10px;
+  }
+
+  img {
+    width: 140px;
+    position: absolute;
+  }
+
+  table {
+    text-align: left;
+  }
+
+  p {
+    line-height: 20px;
+  }
+
+  .date {
+    position: absolute;
+    right: 0;
+  }
+
+  .tengah {
+    text-align: center;
+  }
+
+  .biodata {
+    margin: 0 250px;
+    width: 450px;
+
+  }
+
+  .biodata p {
+    line-height: 20px;
+  }
